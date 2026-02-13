@@ -22,7 +22,7 @@ const CONFIG = {
     // Customize each question and its possible responses
     questions: {
         first: {
-            text: " 🐻دوستم داری کوچولو؟؟",                                    // First interaction
+            text: " 🐻دوستم داری کوچولو؟؟؟",                                    // First interaction
             yesBtn: "آره",                                             // Text for "Yes" button
             noBtn: "نه :(",                                               // Text for "No" button
             secretAnswer: "دوستت ندارم، عاشقتم❤️"           // Secret hover message
